@@ -48,7 +48,7 @@ Adicione codigo abaixo dentro do Schema
       "data": {
         "projectName": "evolution",
         "serviceName": "evolution-redis",
-        "password": "senha redis"
+        "password": "senharedis"
       }
     }
   ]
