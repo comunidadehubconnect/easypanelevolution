@@ -40,7 +40,7 @@ Adicione codigo abaixo dentro do Schema
       "data": {
         "projectName": "evolution-db",
         "serviceName": "evolution-db",
-        "image": "ramsrib/pgvector:latest"
+        "image": "bitnami/postgresql:16"
       }
     },
     {
