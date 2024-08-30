@@ -28,7 +28,7 @@ Va ate final da pagina
 
 ![image](https://github.com/comunidadehubconnect/easypanelwoofedcrm/assets/91642837/828a9e88-45f2-4b6b-98f1-ab4f164d2889)
 
-Adicione codigo abaixo dentro do Schema
+Adicione código abaixo dentro do Schema
 
 ![image](https://github.com/comunidadehubconnect/easypanelwoofedcrm/assets/91642837/74b97f33-e5d2-495d-aaba-25bb8b433adf)
 
@@ -55,7 +55,7 @@ Adicione codigo abaixo dentro do Schema
 }
 ```
 
-Adicione codigo abaixo dentro do Schema com credenciais Postgres e Redis alteradas
+Adicione código abaixo dentro do Schema, com credenciais Postgres e Redis alteradas
 
 ![image](https://github.com/comunidadehubconnect/easypanelwoofedcrm/assets/91642837/74b97f33-e5d2-495d-aaba-25bb8b433adf)
 
@@ -92,6 +92,6 @@ Adicione codigo abaixo dentro do Schema com credenciais Postgres e Redis alterad
 ```
 
 
-Pronto tudo Funcionando ✅😎
+### Pronto tudo Funcionando ✅😎
 
-Creditos: Andre Marques
+Creditos: `André Marques`
