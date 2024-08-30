@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://cwmkt.com.br/wp-content/uploads/2024/04/logo_github.png" width="240" />
-<p align="center">Seja bem-vindo ao Guia de Instalação EasyPanel Evolution 2.0 🚀</p>
+<p align="center">Seja bem-vindo ao Guia de Instalação EasyPanel Evolution v2.1.0 🚀</p>
 </p>
   
 <p align="center"> 
