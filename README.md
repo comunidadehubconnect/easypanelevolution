@@ -69,7 +69,7 @@ Adicione código abaixo dentro do Schema, com credenciais Postgres e Redis alter
         "serviceName": "evolution",
         "source": {
           "type": "image",
-          "image": "atendai/evolution-api:v2.1.0"
+          "image": "atendai/evolution-api:v2.1.2"
         },
         "domains": [
           {
